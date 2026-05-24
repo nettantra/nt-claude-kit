@@ -1,4 +1,4 @@
-# nt-claude-kit
+# NT Claude Kit
 
 NetTantra's installer for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), with optional launchers that route Claude Code through third party gateways.
 
